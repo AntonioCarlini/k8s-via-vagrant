@@ -17,4 +17,4 @@ There are still a few things to iron out, but the basic functionality is present
 
 * The temporary cluster hosts file is not deleted (deleting it seems to upset vagrant).
 
-* It would be more conveneint to determine the main host network interface automatically.
+* It would be more convenient to determine the main host network interface automatically.
